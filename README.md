@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Red Team Lead @ PRISMA CSI </h3>
+<h3 align="center">Head of Cyber Intelligence Services at @Brandefense</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfknn&label=Profile%20views&color=0e75b6&style=flat" alt="mstfknn" /> </p>
 
