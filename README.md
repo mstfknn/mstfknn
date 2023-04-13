@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on @Brandefense
+🔭 I’m currently working on [BRANDEFENSE](https://brandefense.io)
 
 
 ## 🌐 Socials:
@@ -22,8 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mstfknn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mstfknn&icon=5&color=7)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfknn&label=Profile%20views&color=0e75b6&style=flat" alt="mstfknn" /> </p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
