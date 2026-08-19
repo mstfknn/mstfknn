@@ -2,17 +2,17 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  PRINCIPAL THREAT RESEARCHER  ·  BRANDEFENSE                ║
+║  CYBERSECURITY SERVICES TEAM LEAD  ·  PEAKCYBER              ║
 ║  Bridging offensive security with intelligence-led defense   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 # Mustafa Kaan Demirhan
 
-**`Principal Threat Researcher · Digital Risk Protection · Threat Intelligence`**
+**`Cybersecurity Services Team Lead · Threat Intelligence · Offensive Security`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mstfknn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mstfknn/)
-[![Brandefense](https://img.shields.io/badge/Company-Brandefense-E84545?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNVY3bC05IDV6Ii8+PC9zdmc+)](https://brandefense.io)
+[![PeakCyber](https://img.shields.io/badge/Company-PeakCyber%20Technologies-E84545?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNVY3bC05IDV6Ii8+PC9zdmc+)](https://peakcyber.com)
 [![CEH](https://img.shields.io/badge/Cert-CEH%20v11-4CAF50?style=flat-square)](https://www.eccouncil.org/)
 [![RPT](https://img.shields.io/badge/Cert-Registered%20Penetration%20Tester-FF6B35?style=flat-square)](https://mile2.com/)
 
@@ -22,9 +22,9 @@
 
 ## ◈ About
 
-I'm a **Principal Threat Researcher** at [Brandefense](https://brandefense.io), with **7+ years** of hands-on experience across offensive security, threat intelligence, and strategic cyber defense. My work sits at the intersection of deep technical research and executive-level decision-making — translating complex threat landscapes into actionable intelligence.
+I'm the **Cybersecurity Services Team Lead** at [PeakCyber Technologies](https://peakcyber.com), with **9+ years** of hands-on experience across offensive security, threat intelligence, and strategic cyber defense. My work sits at the intersection of deep technical research and executive-level decision-making — translating complex threat landscapes into actionable intelligence.
 
-Previously, I served as **Technical Product Manager** and **Head of Cyber Intelligence Services** at Brandefense, and before that as **Penetration Testing Team Leader** and **Senior Security Consultant** at PRISMA CSI, working directly with enterprise clients across red team operations and vulnerability assessments.
+Before PeakCyber, I spent 4+ years at **Brandefense**, where I served as **Principal Threat Researcher**, **Technical Product Manager**, and **Head of Cyber Intelligence Services** — advancing digital risk protection, shaping product strategy, and leading intelligence analyst teams. Earlier, as **Penetration Testing Team Leader** and **Senior Security Consultant** at PRISMA CSI, I worked directly with enterprise clients across red team operations and vulnerability assessments.
 
 My mission: **bridge the gap between raw security research and real-world defense at scale.**
 
@@ -34,6 +34,7 @@ My mission: **bridge the gap between raw security research and real-world defens
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
+│  Cybersecurity Services & Team Leadership                   │
 │  Threat Intelligence & Digital Risk Protection              │
 │  Red Team Operations & Penetration Testing                  │
 │  Cyber Threat Research & Attribution                        │
@@ -79,6 +80,8 @@ Sharing tools, vulnerability research, and threat analysis to strengthen the bro
 
 ```
 2026 ──────────────────────────────────────────────────────────
+          Cybersecurity Services Team Lead @ PeakCyber Technologies
+2025 ──────────────────────────────────────────────────────────
           Principal Threat Researcher @ Brandefense
 2024 ──────────────────────────────────────────────────────────
           Technical Product Manager @ Brandefense
